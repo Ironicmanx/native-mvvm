@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="todo_activity_label">Todo List</string>
+</resources>
